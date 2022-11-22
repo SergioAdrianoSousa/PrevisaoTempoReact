@@ -1,5 +1,11 @@
 .previsao {
-  margin-left: 350px;
+  flex: 1;
+  justify-content: center;
+  align-self: center;
+}
+
+.previsao2 {
+  margin-left: 420px;
 }
 
 .botaonav {

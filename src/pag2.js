@@ -85,7 +85,7 @@ const Page2 = () => {
             </nav>
             <div className=" card bg-light text-center m-5 p-4">
                 <div>
-                    <div className='previsao'>
+                    <div className='previsao2'>
                         {cidade}
                     </div>
                     <button className='col-md-6 btn btn-outline-success my-2 my-sm-0' onClick={sortear} type='primary'>Previsão</button>
